@@ -1,0 +1,72 @@
+{
+	"index.html": {
+		"refer": [
+			"shouhuo.html",
+			"pullGoods.html",
+			"zhuye.html",
+			"myindex.html",
+			"outStore.html",
+			"take_delivery.html",
+			"examine_goods.html"
+		]
+	},
+	"shouhuo.html": {
+		"refer": [
+			"index.html"
+		]
+	},
+	"pullGoods.html": {
+		"refer": [
+			"index.html",
+			"Table_Responstable_2.0.html",
+			"Table_Responsive_v2.html"
+		]
+	},
+	"zhuye.html": {
+		"resources": [
+			"image/ico_�?�\u0006_i�l�.png",
+			"image/2.png"
+		],
+		"refer": [
+			"index.html"
+		]
+	},
+	"myindex.html": {
+		"refer": [
+			"index.html"
+		]
+	},
+	"outStore.html": {
+		"refer": [
+			"index.html"
+		]
+	},
+	"take_delivery.html": {
+		"refer": [
+			"index.html",
+			"Table_Responsive_v2.html",
+			"Table_supply.html"
+		]
+	},
+	"examine_goods.html": {
+		"refer": [
+			"index.html"
+		]
+	},
+	"Table_Responsive_v2.html": {
+		"refer": [
+			"pullGoods.html",
+			"take_delivery.html"
+		]
+	},
+	"Table_supply.html": {
+		"refer": [
+			"take_delivery.html"
+		]
+	},
+	"Table_pinzhong.html": {
+		"refer": [
+			"take_delivery.html"
+		]
+	}
+}
